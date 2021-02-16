@@ -1,0 +1,16 @@
+.filme {
+  display: flex;
+  flex-direction: column;
+  width: 800px;
+  background-color: #ffff;
+}
+
+.filme h1 {
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.filme img {
+  width: 800px;
+  border-radius: 50px;
+}
